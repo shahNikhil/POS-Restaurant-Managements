@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "POS Restaurant",
+    "slug": "pos-restaurant",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.posrestaurant.app"
+    },
+    "android": {
+      "package": "com.posrestaurant.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
